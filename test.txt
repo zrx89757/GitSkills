@@ -4,3 +4,8 @@ Git is free software
 Creating a new branch is quick AND simple
 
 fix a emergency bug
+
+fix bug 102
+
+something need long time
+
